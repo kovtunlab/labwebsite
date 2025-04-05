@@ -17,6 +17,15 @@ theme = "hugo-theme-terminal"
   [params.twitter]
     creator = "KovtunOleksiy"
     site = "KovtunOleksiy"
+    
+  # Ignore warnings about HTML in Markdown
+  ignoreLogs = ['warning-goldmark-raw-html']
+
+# Enable HTML in Markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   
 [languages]
   [languages.en]

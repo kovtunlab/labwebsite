@@ -5,7 +5,19 @@
     <loc>http://192.168.0.88:1313/blog/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://192.168.0.88:1313/people/smith/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.0.88:1313/people/kovtun/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://192.168.0.88:1313/tags/funding/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.0.88:1313/gallery/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.0.88:1313/people/doe/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://192.168.0.88:1313/</loc>

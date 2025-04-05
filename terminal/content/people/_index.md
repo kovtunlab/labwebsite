@@ -7,22 +7,22 @@ date = "2025-04-05"
 
 ## Principal Investigator
 
-**Dr. Oleksiy Kovtun**  
+[**Dr. Oleksiy Kovtun**](/people/kovtun/)  
 Professor of Cell Biology
 
-![Dr. Kovtun](/img/kovtun.jpg)
+[![Dr. Kovtun](/img/kovtun.jpg)](/people/kovtun/)
 
 ## Postdoctoral Researchers
 
-**Dr. Jane Smith**  
+[**Dr. Jane Smith**](/people/smith/)  
 Research focus: Membrane trafficking in neurons
 
-![Dr. Smith](/img/smith.jpg)
+[![Dr. Smith](/img/smith.jpg)](/people/smith/)
 
 ## Graduate Students
 
-**John Doe**  
+[**John Doe**](/people/doe/)  
 PhD Candidate  
 Research focus: Endocytosis regulation
 
-![John Doe](/img/doe.jpg)
+[![John Doe](/img/doe.jpg)](/people/doe/)
