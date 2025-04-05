@@ -13,10 +13,18 @@ theme = "hugo-theme-terminal"
   # Directory where blog posts are stored
   contentTypeName = "blog"
   
-  # Twitter configuration
+  # Social media configuration
   [params.twitter]
     creator = "KovtunOleksiy"
     site = "KovtunOleksiy"
+    
+  # Other social media links
+  [params.social]
+    twitter = "KovtunOleksiy"
+    bluesky = "oleksiykovtun.bsky.social"
+    github = "kovtunlab"
+    mpinat = "https://www.mpinat.mpg.de/kovtun"
+    unigo = "https://www.uni-goettingen.de/de/659736.html"
     
   # Ignore warnings about HTML in Markdown
   ignoreLogs = ['warning-goldmark-raw-html']
