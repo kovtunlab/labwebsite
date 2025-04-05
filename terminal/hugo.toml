@@ -5,7 +5,7 @@ theme = "hugo-theme-terminal"
 
 [params]
   # Number of menu items to show (set to 0 to show all)
-  showMenuItems = 0
+  showMenuItems = 6
   
   # Custom CSS
   customCSS = ["css/custom.css"]
