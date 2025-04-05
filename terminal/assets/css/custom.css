@@ -4,13 +4,17 @@
 
 .home-content img {
   max-width: 100%;
+  width: 650px; /* Default width for all images */
+  height: auto;
   border-radius: 5px;
-  margin: 20px 0;
+  margin: 20px auto;
+  display: block; /* Center images by default */
 }
 
 .home-content h1 {
-  font-size: 2.5em;
+  font-size: 2.2em;
   margin-bottom: 30px;
+  line-height: 1.2;
 }
 
 .home-content h2 {
@@ -63,18 +67,46 @@
 }
 
 /* GIF and Image Styles */
-.gif-container {
+.gif-container, .image-container {
   margin: 30px 0;
-  text-align: center;
 }
 
-.gif-container img {
+.gif-container img, .image-container img {
   max-width: 100%;
   border-radius: 5px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: block;
 }
 
-.caption {
+/* Alignment options */
+.align-left {
+  text-align: left;
+}
+
+.align-left img {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-center img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-right img {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.caption, figcaption {
   font-size: 0.9em;
   color: var(--color-secondary);
   text-align: center;

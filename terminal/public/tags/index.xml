@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MemTraLab</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://192.168.0.88:1313/tags/</link>
     <description>Recent content in Tags on MemTraLab</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.88:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Funding</title>
-      <link>http://localhost:1313/tags/funding/</link>
+      <link>http://192.168.0.88:1313/tags/funding/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/funding/</guid>
+      <guid>http://192.168.0.88:1313/tags/funding/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>http://192.168.0.88:1313/tags/research/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>http://192.168.0.88:1313/tags/research/</guid>
       <description></description>
     </item>
   </channel>

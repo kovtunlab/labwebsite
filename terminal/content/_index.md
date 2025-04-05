@@ -3,11 +3,11 @@ title = "Kovtun Lab"
 date = "2025-04-05"
 +++
 
-# Welcome to the Kovtun Lab
+# Decoding Cellular Logistic
 
-![Lab Photo](/img/lab-photo.jpg)
+{{< image src="/img/mainpage_cryoET_image.png" alt="Cryo-ET in cells" width="400px" align="center" caption="Cryo-electron tomography visualization" >}}
 
-{{< gif src="/img/membrane-trafficking.gif" alt="Membrane Trafficking Animation" caption="Animation showing vesicle transport in a cell" >}}
+{{< gif src="/img/membrane-trafficking.gif" alt="Membrane Trafficking Animation" caption="Animation showing vesicle transport in a cell" width="700px" align="center" >}}
 
 ## About Our Lab
 

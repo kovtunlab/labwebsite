@@ -5,7 +5,7 @@ theme = "hugo-theme-terminal"
 
 [params]
   # Number of menu items to show (set to 0 to show all)
-  showMenuItems = 6
+  showMenuItems = 0
   
   # Custom CSS
   customCSS = ["css/custom.css"]
@@ -50,5 +50,7 @@ theme = "hugo-theme-terminal"
         identifier = "join"
         name = "Join us"
         url = "/join"
-
-
+      [[languages.en.menu.main]]
+        identifier = "gallery"
+        name = "Gallery"
+        url = "/gallery"
