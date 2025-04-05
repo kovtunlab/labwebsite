@@ -185,6 +185,14 @@
   line-height: 1.6;
 }
 
+.person-current-position {
+  font-size: 1.1em;
+  margin-top: -15px;
+  margin-bottom: 25px;
+  color: var(--color-secondary);
+  font-style: italic;
+}
+
 /* Blog list styling */
 .blog-list {
   margin-top: 40px;

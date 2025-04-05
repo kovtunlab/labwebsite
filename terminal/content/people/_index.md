@@ -26,3 +26,9 @@ PhD Candidate
 Research focus: Endocytosis regulation
 
 [![John Doe](/img/doe.jpg)](/people/doe/)
+
+## Alumni
+
+[**Kangar Possumovsky**](/people/possumovsky/)  
+Rotation Student (Fall 2024)  
+Current position: PhD student, Stanford University
