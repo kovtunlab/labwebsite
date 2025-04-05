@@ -184,3 +184,69 @@
 .person-about-me {
   line-height: 1.6;
 }
+
+/* Blog list styling */
+.blog-list {
+  margin-top: 40px;
+}
+
+.blog-item {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.blog-item:last-child {
+  border-bottom: none;
+}
+
+.blog-date {
+  flex: 0 0 180px;
+  color: var(--color-secondary);
+  font-size: 0.9em;
+}
+
+.blog-title {
+  flex: 1;
+}
+
+.blog-title a {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: var(--accent);
+}
+
+.blog-title a:hover {
+  text-decoration: underline;
+}
+
+/* Blog single post styling */
+.blog-figure {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.blog-figure img {
+  max-width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.external-link {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 10px 15px;
+  background-color: var(--accent);
+  color: var(--background);
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: opacity 0.2s ease;
+}
+
+.external-link:hover {
+  opacity: 0.9;
+}
